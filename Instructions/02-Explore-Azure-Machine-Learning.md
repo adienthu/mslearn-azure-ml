@@ -1,7 +1,7 @@
 ---
 lab:
   title: Explore the Azure Machine Learning workspace
-  description: In this exercise, you'll use the Azure portal to provision Azure Machine Learning to explore all options.
+  description: Learn to use the Azure portal to provision Azure Machine Learning and explore all options.
   duration: 5 minutes
   level: 400
   islab: true

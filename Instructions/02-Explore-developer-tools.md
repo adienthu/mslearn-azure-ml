@@ -1,7 +1,7 @@
 ---
 lab:
   title: Explore developer tools for workspace interaction
-  description: 'In this exercise, you''ll create a compute instance with the following settings:'
+  description: Learn how to use various tools to interact with the Azure Machine Learning workspace.
   duration: 5 minutes
   level: 400
   islab: true

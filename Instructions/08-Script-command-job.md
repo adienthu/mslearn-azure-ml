@@ -1,7 +1,7 @@
 ---
 lab:
   title: Run a training script as a command job in Azure Machine Learning
-  description: In this exercise, you'll test a script and then run it as a command job.
+  description: Convert a notebook to a script and then run it as a command job.
   duration: 10 minutes
   level: 400
   islab: true

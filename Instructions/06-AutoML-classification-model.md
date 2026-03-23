@@ -1,7 +1,7 @@
 ---
 lab:
   title: Find the best classification model with Automated Machine Learning
-  description: In this exercise, you'll use automated machine learning to determine the optimal algorithm and preprocessing steps for a model by performing multiple training runs in parallel.
+  description: Use automated machine learning to determine the optimal algorithm and preprocessing steps for a model by performing multiple training runs in parallel.
   duration: 10 minutes
   level: 400
   islab: true

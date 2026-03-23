@@ -1,7 +1,7 @@
 ---
 lab:
   title: Work with compute resources in Azure Machine Learning
-  description: In this exercise, you'll learn how to use cloud compute in Azure Machine Learning to run experiments and production code at scale.
+  description: Learn how to use cloud compute in Azure Machine Learning to run experiments and production code at scale.
   duration: 10 minutes
   level: 400
   islab: true

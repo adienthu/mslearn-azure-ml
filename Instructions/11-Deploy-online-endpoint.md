@@ -1,7 +1,7 @@
 ---
 lab:
   title: Deploy a model to a managed online endpoint
-  description: In this exercise, you'll deploy an MLflow model to a managed online endpoint, and test it on sample data.
+  description: Deploy an MLflow model to a managed online endpoint, and test it on sample data.
   duration: 10 minutes
   level: 400
   islab: true

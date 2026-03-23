@@ -1,7 +1,7 @@
 ---
 lab:
   title: Run pipelines in Azure Machine Learning
-  description: In this exercise, you'll run multiple scripts as a pipeline job.
+  description: Learn how to run scripts as a pipeline job.
   duration: 10 minutes
   level: 400
   islab: true
